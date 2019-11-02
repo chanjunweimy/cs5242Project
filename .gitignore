@@ -2,3 +2,6 @@
 *.7z
 *.npy
 *.csv
+*.png
+*.log
+*.h5
