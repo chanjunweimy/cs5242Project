@@ -5,3 +5,5 @@
 *.png
 *.log
 *.h5
+*.zip
+*.gzip
